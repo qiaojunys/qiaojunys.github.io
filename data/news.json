@@ -1,14 +1,77 @@
 [
   {
-    "date": "2025-01-01",
-    "content": "Welcome to my new academic homepage! This template is available on GitHub.",
+    "date": "Oct. 2026",
+    "content": "Launched my personal academic homepage!",
+    "links": []
+  },
+  {
+    "date": "Sep. 2026",
+    "content": "Our paper \"Prevalence of Clinically Suspected Familial Hypercholesterolemia in the United States, 2009–2018\" was published in <i>Cardiac Research</i> (corresponding author).",
     "links": [
-        { "text": "GitHub", "url": "https://github.com/yihangtao/AcaNova-X" }
+      { "text": "[Paper]", "url": "https://doi.org/10.1097/re9.0000000000000019" }
     ]
   },
   {
-     "date": "2024-12-15",
-     "content": "One paper titled 'A Novel Approach to AI' was accepted to CVPR 2025!",
-     "links": []
+    "date": "Jan. 2026",
+    "content": "Our paper \"Genetic associations of circulating plasma proteins with cardiometabolic diseases\" was published in <i>Genome Biology</i> (co-first author).",
+    "links": [
+      { "text": "[Paper]", "url": "https://doi.org/10.1186/s13059-026-03962-x" }
+    ]
+  },
+  {
+    "date": "Dec. 2025",
+    "content": "I was awarded the 2025 National Scholarship for Doctoral Students (博士研究生国家奖学金).",
+    "links": []
+  },
+  {
+    "date": "Dec. 2025",
+    "content": "Our NSFC Young Student Basic Research Project (PhD candidate, PI, ¥300K) was funded, and I was selected for the 2025 CAST Young Talent Support Program — Doctoral Student Special Initiative.",
+    "links": []
+  },
+  {
+    "date": "Sep. 2025",
+    "content": "Two first-author papers published back-to-back in <i>Nature Communications</i>: shared genetic architecture of major cardiovascular diseases (independent first author) and leukocyte telomere length and CVD onset (co-first author).",
+    "links": [
+      { "text": "[Paper 1]", "url": "https://doi.org/10.1038/s41467-025-62419-0" },
+      { "text": "[Paper 2]", "url": "https://doi.org/10.1038/s41467-025-63707-5" }
+    ]
+  },
+  {
+    "date": "Dec. 2025",
+    "content": "Our paper on trends in apparent treatment-resistant hypertension among U.S. adults was published in <i>American Journal of Preventive Cardiology</i> (corresponding author).",
+    "links": [
+      { "text": "[Paper]", "url": "https://doi.org/10.1016/j.ajpc.2025.101360" }
+    ]
+  },
+  {
+    "date": "Jan. 2025",
+    "content": "EXPRESSO, our multi-omics database for multi-layered 3D genomic organization, was published in <i>Nucleic Acids Research</i> (co-first author).",
+    "links": [
+      { "text": "[Paper]", "url": "https://doi.org/10.1093/nar/gkae999" }
+    ]
+  },
+  {
+    "date": "Jul. 2023",
+    "content": "Our paper on transcriptome-based deep stratification for precision treatment of systemic lupus erythematosus was published in <i>Rheumatology</i> (co-first author).",
+    "links": [
+      { "text": "[Paper]", "url": "https://doi.org/10.1093/rheumatology/keac625" }
+    ]
+  },
+  {
+    "date": "Mar. 2023",
+    "content": "Our paper on gut microbiota enterotypes predicting methotrexate efficacy in rheumatoid arthritis was published in <i>Rheumatology</i> (co-first author).",
+    "links": [
+      { "text": "[Paper]", "url": "https://doi.org/10.1093/rheumatology/keac458" }
+    ]
+  },
+  {
+    "date": "Oct. 2020",
+    "content": "Our project \"Xinyuan Tech\" won the Gold Award and Most Popular Award at the 6th China International \"Internet+\" College Innovation & Entrepreneurship Competition national finals.",
+    "links": []
+  },
+  {
+    "date": "Nov. 2019",
+    "content": "Our project \"医纽恩 (YN-E)\" won the Gold Award and Best Brand Influence Award at the 6th \"Chuangqingchun\" China Youth Innovation & Entrepreneurship Competition national finals.",
+    "links": []
   }
 ]

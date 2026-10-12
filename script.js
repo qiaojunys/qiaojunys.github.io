@@ -223,7 +223,7 @@ function loadPublications() {
                     const venueShort = getVenueShortName(pub.venue, pub.year);
                     venueTagSpan.textContent = `[${venueShort}]`;
                     venueTagSpan.className = 'pub-venue-tag';
-                    if (venueShort.toLowerCase().includes('arxiv') || venueShort.toLowerCase().includes('preprint')) {
+                    if (venueShort.toLowerCase().includes('arxiv') || venueShort.toLowerCase().includes('medrxiv') || venueShort.toLowerCase().includes('preprint')) {
                         venueTagSpan.classList.add('tag-arxiv');
                     } else {
                         venueTagSpan.classList.add('tag-conference');
@@ -303,6 +303,7 @@ function loadPublications() {
                     let badgeText = '';
                     if (highlightText.toLowerCase().includes('oral')) badgeText = 'Oral';
                     else if (highlightText.toLowerCase().includes('spotlight')) badgeText = 'Spotlight';
+                    else badgeText = highlightText;
                     
                     if (badgeText) {
                         const badge = document.createElement('span');
@@ -324,6 +325,14 @@ function loadPublications() {
                         rankSpan.className = `ccf-rank ccf-${ccfRank.toLowerCase()}`;
                         rankSpan.textContent = `(CCF-${ccfRank})`;
                         line3.appendChild(rankSpan);
+                    }
+
+                    // 4. Journal metrics / notes
+                    if (pub.note) {
+                        const noteSpan = document.createElement('span');
+                        noteSpan.className = 'pub-note';
+                        noteSpan.textContent = pub.note;
+                        line3.appendChild(noteSpan);
                     }
 
                     contentWrapper.appendChild(line3);
@@ -371,6 +380,19 @@ function getVenueShortName(venueStr, year) {
 
     // Special cases
     if (s.toLowerCase().includes('arxiv')) return 'ArXiv'; // No year
+    if (s.toLowerCase().includes('medrxiv')) return 'medRxiv'; // No year
+
+    // Medical/scientific journal abbreviations (exact match after year removal)
+    const journalAbbr = {
+        'Nature Communications': 'Nat Commun',
+        'Genome Biology': 'Genome Biol',
+        'Nucleic Acids Research': 'Nucleic Acids Res',
+        'American Journal of Preventive Cardiology': 'Am J Prev Cardiol',
+        'Cardiac Research': 'Cardiac Res',
+        'Rheumatology (Oxford)': 'Rheumatology',
+        "Journal of Crohn's and Colitis": "J Crohn's Colitis"
+    };
+    if (journalAbbr[s.trim()]) return journalAbbr[s.trim()];
     
     // Journals or specific conferences
     if (s.includes('TDSC')) return 'IEEE TDSC';

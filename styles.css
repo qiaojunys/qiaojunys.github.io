@@ -313,6 +313,15 @@ details summary {
     color: #16a34a; /* Green-600 */
 }
 
+/* Journal metrics / notes (e.g. JCR quartile, impact factor) */
+.pub-note {
+    font-style: normal;
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: #b88a4d; /* accent-dark */
+    margin-left: 0.4rem;
+}
+
 .publication:hover {
     border-color: #d4a562; /* accent */
     box-shadow: 0 10px 30px -10px rgba(0,0,0,0.05);
@@ -480,4 +489,113 @@ details summary {
         max-width: 300px;
         margin-top: 0.5rem;
     }
+}
+
+/* =========================================
+   Subpage Styles (All News / Publications / Honors)
+   ========================================= */
+
+/* Top Navigation on subpages */
+nav.top-nav {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(226, 232, 240, 0.8);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.03);
+}
+
+nav.top-nav ul.nav-links {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 1.25rem 1.5rem;
+}
+
+nav.top-nav ul.nav-links li a {
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 0.95rem;
+    color: #475569; /* slate-600 */
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+nav.top-nav ul.nav-links li a:hover {
+    color: #1e293b; /* slate-800 */
+}
+
+nav.top-nav ul.nav-links li a.active {
+    color: #b88a4d; /* accent-dark */
+    font-weight: 600;
+}
+
+/* Content container */
+.content-container {
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 2.5rem 1.5rem 4rem;
+}
+
+.main-content {
+    max-width: 56rem;
+    margin: 0 auto;
+}
+
+.section-title {
+    font-family: 'Crimson Text', serif;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #1e293b; /* primary */
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #d4a562; /* accent */
+    display: inline-block;
+}
+
+.content-block {
+    margin-top: 1rem;
+}
+
+/* View All button */
+.view-all-container {
+    margin-top: 2.5rem;
+    text-align: center;
+}
+
+.view-all-btn {
+    display: inline-block;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #b88a4d; /* accent-dark */
+    text-decoration: none;
+    padding: 0.5rem 1.25rem;
+    border: 1px solid #e7d4b5;
+    border-radius: 8px;
+    transition: all 0.2s;
+    background-color: #fffdf8;
+}
+
+.view-all-btn:hover {
+    background-color: #fdf6ea;
+    border-color: #d4a562;
+}
+
+/* Subpage footer */
+footer {
+    border-top: 1px solid #e2e8f0;
+    background-color: #f8fafc;
+    padding: 2rem 1rem;
+    text-align: center;
+    color: #64748b; /* slate-500 */
+    font-size: 0.875rem;
+}
+
+footer p {
+    margin: 0;
 }

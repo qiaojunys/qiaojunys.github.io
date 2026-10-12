@@ -1,26 +1,182 @@
 [
   {
-    "title": "AcaNova-X: A Modern and Elegant Academic Website Template",
-    "authors": "<strong>Your Name</strong>, Collaborator A, Collaborator B",
-    "venue": "CVPR 2025",
+    "title": "Shared Genetic Architecture Contributes to Risk of Major Cardiovascular Diseases",
+    "authors": "<strong>Jun Qiao</strong>, Lei Jiang*, Liuyang Cai, Minjing Chang, Can Wang, Rong Zhao, Shan Song, Yuhui Zhao, Miaoran Chen, Ning Tan, Pengcheng He, Sakthivel Sadayappan, Jinguo Xu*, Siim Pauklin*, Zhengbing Liu*, Yuliang Feng*",
+    "venue": "Nature Communications",
     "year": "2025",
-    "highlight": "Oral",
-    "thumbnail": "assets/publications/placeholder/paper-thumb.png",
+    "highlight": "First Author",
+    "note": "JCR Q1 · CAS Rank 1 · IF 15.7",
+    "thumbnail": "",
     "tags": [
-      { "text": "Paper", "link": "#" },
-      { "text": "Code", "link": "#" },
-      { "text": "Project Page", "link": "#" }
+      { "text": "Paper", "link": "https://doi.org/10.1038/s41467-025-62419-0" }
     ]
   },
   {
-    "title": "Another Great Research Work on Machine Learning",
-    "authors": "Collaborator A, <strong>Your Name</strong>, Collaborator B",
-    "venue": "NeurIPS 2024",
-    "year": "2024",
-    "highlight": "Spotlight",
+    "title": "Contribution of leukocyte telomere length to cardiovascular disease onset from genome-wide cross-trait analysis",
+    "authors": "<strong>Jun Qiao</strong>#, Qian Wang#, Yuhui Zhao#, Minjing Chang#, Shuo Sun#, Pengwei Zhang, Kaixin Yao, Miaoran Chen, Leilei Zheng, Anil G. Jegga, Lei Jiang*, Siim Pauklin*, Rongjun Zou*, Yining Yang*, Yuliang Feng*",
+    "venue": "Nature Communications",
+    "year": "2025",
+    "highlight": "Co-first Author",
+    "note": "JCR Q1 · CAS Rank 1 · IF 15.7",
     "thumbnail": "",
     "tags": [
-      { "text": "Paper", "link": "#" }
+      { "text": "Paper", "link": "https://doi.org/10.1038/s41467-025-63707-5" }
+    ]
+  },
+  {
+    "title": "Genetic associations of circulating plasma proteins with cardiometabolic diseases",
+    "authors": "Ruixin Zhou#, <strong>Jun Qiao</strong>#, Xiuzhen Zhang#, Xiaofei Yang, Wanzi Hong, Liuyang Cai, Pengwei Zhang, Siim Pauklin, Yining Yang, Zhaoyan Xu, Yuliang Feng",
+    "venue": "Genome Biology",
+    "year": "2026",
+    "highlight": "Co-first Author",
+    "note": "JCR Q1 · CAS Rank 1 · IF 9.4",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "https://doi.org/10.1186/s13059-026-03962-x" }
+    ]
+  },
+  {
+    "title": "EXPRESSO: A multi-omics database to explore multi-layered 3D genomic organization",
+    "authors": "Liuyang Cai#, <strong>Jun Qiao</strong>#, Ruixin Zhou#, Xinyi Wang#, Yelan Li, Lei Jiang, Qiangwei Zhou*, Guoliang Li*, Tao Xu*, Yuliang Feng*",
+    "venue": "Nucleic Acids Research",
+    "year": "2025",
+    "highlight": "Co-first Author",
+    "note": "JCR Q1 · CAS Rank 1 · IF 13.1",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "https://doi.org/10.1093/nar/gkae999" }
+    ]
+  },
+  {
+    "title": "Trends in the Prevalence of Apparent Treatment-Resistant Hypertension Among U.S. Adults, 1999–2018",
+    "authors": "Kaixin Yao#, Yufei Bai#, Xinjie Kang, Ying Zhang, <strong>Jun Qiao</strong>*",
+    "venue": "American Journal of Preventive Cardiology",
+    "year": "2025",
+    "highlight": "Corresponding Author",
+    "note": "JCR Q1 · CAS Rank 2 · IF 5.9",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "https://doi.org/10.1016/j.ajpc.2025.101360" }
+    ]
+  },
+  {
+    "title": "Prevalence of Clinically Suspected Familial Hypercholesterolemia in the United States, 2009–2018",
+    "authors": "Yuhui Zhao, Weilu Cui, Ziyue Wang, Quan Yun, <strong>Jun Qiao</strong>*",
+    "venue": "Cardiac Research",
+    "year": "2026",
+    "highlight": "Corresponding Author",
+    "note": "Publish Ahead of Print",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "https://doi.org/10.1097/re9.0000000000000019" }
+    ]
+  },
+  {
+    "title": "Deep stratification by transcriptome molecular characters for precision treatment of patients with systemic lupus erythematosus",
+    "authors": "<strong>Jun Qiao</strong>#, Shengxiao Zhang#, Minjing Chang, Rong Zhao, Shan Song, Ting Cheng, Jiawei Hao, Jingxi Hu, Chong Gao, Caihong Wang, Xiaofeng Li*",
+    "venue": "Rheumatology (Oxford)",
+    "year": "2023",
+    "highlight": "Co-first Author",
+    "note": "JCR Q1 · CAS Rank 1 · IF 7.0",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "https://doi.org/10.1093/rheumatology/keac625" }
+    ]
+  },
+  {
+    "title": "Specific enterotype of gut microbiota predicted clinical effect of methotrexate in patients with rheumatoid arthritis",
+    "authors": "<strong>Jun Qiao</strong>#, Shengxiao Zhang, Minjing Chang, Ting Cheng, Jiaqian Zhang, Rong Zhao, Shan Song, Guangying Liu, Jiasong Chang, Xiaofeng Li*",
+    "venue": "Rheumatology (Oxford)",
+    "year": "2023",
+    "highlight": "Co-first Author",
+    "note": "JCR Q1 · CAS Rank 1 · IF 7.0",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "https://doi.org/10.1093/rheumatology/keac458" }
+    ]
+  },
+  {
+    "title": "A compendium of mucosal molecular characteristics provides novel perspectives on the treatment of ulcerative colitis",
+    "authors": "Minjing Chang#, Jiawei Hao#, <strong>Jun Qiao</strong>#, Miaoran Chen, Qian Wang, Qi Wang, Shengxiao Zhang, Qi Yu*, Peifeng He*",
+    "venue": "Journal of Crohn's and Colitis",
+    "year": "2023",
+    "highlight": "Co-first Author",
+    "note": "JCR Q1 · CAS Rank 1 · IF 10.0",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "https://doi.org/10.1093/ecco-jcc/jjad011" }
+    ]
+  },
+  {
+    "title": "Heart-lung connections: Phenotypic and genetic insights from a large-scale genome-wide cross-trait analysis",
+    "authors": "<strong>Jun Qiao</strong>#, Yaixin Yao#, Shiyu Zheng#, Minjing Chang#, Pengwei Zhang#, Yuqing Yang, Yuxiao Kong, Yao Qiao, Jinyi Chen, Ziyi Han, Jialin Hou, Ning Tan, Ling Wang, Pengcheng He, Guochang Fan, Sakthivel Sadayappan, Anil G. Jegga, Wei Huang*, Lei Jiang*, Yuliang Feng*",
+    "venue": "medRxiv",
+    "year": "2026",
+    "highlight": "Co-first Author",
+    "note": "Preprint",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Preprint", "link": "https://doi.org/10.64898/2026.03.15.24309272" }
+    ]
+  },
+  {
+    "title": "Dissecting the pleiotropic genetic architecture linking telomere biology to chronic respiratory diseases and lung function",
+    "authors": "Pengwei Zhang#, Leilei Zheng#, <strong>Jun Qiao</strong>#, Yuzhe Fan, Siyuan Chang, Yuxin Ning, Yixuan Yang, Mengting Liu, Xinying Hao, Jinyu Gao, Yuliang Feng*",
+    "venue": "medRxiv",
+    "year": "2025",
+    "highlight": "Co-first Author",
+    "note": "Preprint",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Preprint", "link": "https://doi.org/10.1101/2025.07.09.25331189" }
+    ]
+  },
+  {
+    "title": "Dissecting the Shared Genetic Architecture of Modifiable Physical Activity and Autoimmune Diseases",
+    "authors": "Minjing Chang#, Kaixin Yao#, <strong>Jun Qiao</strong>#, Yinqi Long, Xicheng Yang, Le Zhou, Qifan Feng, Xi Qiao*, Peifeng He*, Zhixiu Li*",
+    "venue": "medRxiv",
+    "year": "2025",
+    "highlight": "Co-first Author",
+    "note": "Preprint",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Preprint", "link": "https://doi.org/10.1101/2025.03.03.25323217" }
+    ]
+  },
+  {
+    "title": "Genome-wide insights into the shared genetic landscape between metabolic dysfunction-associated fatty liver disease and cardiovascular diseases",
+    "authors": "<strong>Jun Qiao</strong>#, Miaoran Chen#, Minjing Chang#, Wenjia Xie, Wenqi Ma, Tongtong Yang, Qianru Zhao, Kaixin Yao, Xichen Yang, Quan Yun, Jing Xiao, Xu He, Wen Su*, Tao Xu*, Yuliang Feng*, Meixiao Zhan*",
+    "venue": "medRxiv",
+    "year": "2024",
+    "highlight": "Co-first Author",
+    "note": "Preprint",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Preprint", "link": "https://doi.org/10.1101/2024.11.10.24317047" }
+    ]
+  },
+  {
+    "title": "Genetic analyses identify shared genetic components related to autoimmune and cardiovascular diseases",
+    "authors": "<strong>Jun Qiao</strong>#, Minjing Chang#, Miaoran Chen#, Yuhui Zhao#, Jiawei Hao, Pengwei Zhang, Ruixin Zhou, Liuyang Cai, Xiaoping Fan, Siim Pauklin*, Rongjun Zou*, Zhixiu Li*, Yuliang Feng*",
+    "venue": "medRxiv",
+    "year": "2024",
+    "highlight": "Co-first Author",
+    "note": "Preprint",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Preprint", "link": "https://doi.org/10.1101/2024.09.01.24310190" }
+    ]
+  },
+  {
+    "title": "Disentangling shared genetic etiologies for kidney function and cardiovascular diseases",
+    "authors": "<strong>Jun Qiao</strong>#, Kaixin Yao#, Minjing Chang#, Xichen Yang, Yinqi Long, Le Zhou, Wenjia Xie, Yixuan Yang, Siim Pauklin*, Yining Yang*, Yuliang Feng*",
+    "venue": "medRxiv",
+    "year": "2024",
+    "highlight": "Co-first Author",
+    "note": "Preprint",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Preprint", "link": "https://doi.org/10.1101/2024.07.26.24310191" }
     ]
   }
 ]
