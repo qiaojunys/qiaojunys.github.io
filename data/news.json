@@ -1,10 +1,5 @@
 [
   {
-    "date": "Oct. 2026",
-    "content": "Launched my personal academic homepage!",
-    "links": []
-  },
-  {
     "date": "Sep. 2026",
     "content": "Our paper \"Prevalence of Clinically Suspected Familial Hypercholesterolemia in the United States, 2009–2018\" was published in <i>Cardiac Research</i> (corresponding author).",
     "links": [
@@ -54,6 +49,11 @@
     "links": [
       { "text": "[Paper]", "url": "https://doi.org/10.1093/nar/gkae999" }
     ]
+  },
+  {
+    "date": "Jan. 2025",
+    "content": "Launched my personal academic homepage!",
+    "links": []
   },
   {
     "date": "Jul. 2023",
