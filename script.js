@@ -390,7 +390,11 @@ function getVenueShortName(venueStr, year) {
         'American Journal of Preventive Cardiology': 'Am J Prev Cardiol',
         'Cardiac Research': 'Cardiac Res',
         'Rheumatology (Oxford)': 'Rheumatology',
-        "Journal of Crohn's and Colitis": "J Crohn's Colitis"
+        "Journal of Crohn's and Colitis": "J Crohn's Colitis",
+        'Journal of Orthopaedic Surgery and Research': 'J Orthop Surg Res',
+        'Mayo Clinic Proceedings': 'Mayo Clin Proc',
+        'Journal of Diabetes Research': 'J Diabetes Res',
+        'Current Urology': 'Curr Urol'
     };
     if (journalAbbr[s.trim()]) return journalAbbr[s.trim()];
     
