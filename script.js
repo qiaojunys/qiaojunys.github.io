@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
         newsJsonPath = '../data/news.json';
     }
     
-    fetch(newsJsonPath)
+    fetch(newsJsonPath + '?t=' + Date.now())
         .then(response => response.json())
         .then(data => {
             // Check if we're on the homepage
@@ -116,7 +116,7 @@ document.addEventListener('DOMContentLoaded', function() {
         honorsJsonPath = '../data/honors.json';
     }
     
-    fetch(honorsJsonPath)
+    fetch(honorsJsonPath + '?t=' + Date.now())
         .then(response => response.json())
         .then(data => {
             // Check if we're on the homepage
@@ -154,7 +154,7 @@ function loadPublications() {
     // Clear existing publications
     publicationsList.innerHTML = '';
     
-    fetch(publicationsJsonPath)
+    fetch(publicationsJsonPath + '?t=' + Date.now())
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
