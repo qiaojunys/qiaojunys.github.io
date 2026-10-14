@@ -8,7 +8,10 @@
     "note": "JCR Q1 · CAS Rank 1 · IF 15.7",
     "thumbnail": "",
     "tags": [
-      { "text": "Paper", "link": "https://doi.org/10.1038/s41467-025-62419-0" }
+      {
+        "text": "Paper",
+        "link": "https://doi.org/10.1038/s41467-025-62419-0"
+      }
     ]
   },
   {
@@ -20,7 +23,10 @@
     "note": "JCR Q1 · CAS Rank 1 · IF 15.7",
     "thumbnail": "",
     "tags": [
-      { "text": "Paper", "link": "https://doi.org/10.1038/s41467-025-63707-5" }
+      {
+        "text": "Paper",
+        "link": "https://doi.org/10.1038/s41467-025-63707-5"
+      }
     ]
   },
   {
@@ -32,31 +38,10 @@
     "note": "JCR Q1 · CAS Rank 1 · IF 9.4",
     "thumbnail": "",
     "tags": [
-      { "text": "Paper", "link": "https://doi.org/10.1186/s13059-026-03962-x" }
-    ]
-  },
-  {
-    "title": "Global, Regional, and National Prevalence for Type 2 Diabetes Among Women of Childbearing Age, 1992–2021: An Age–Period–Cohort Analysis Based on the Global Burden of Disease Study 2021",
-    "authors": "Zhongyan Xu#, Mengting Liu#, Miaoran Chen, Xinying Shen, Xinying Hao, Quan Yun, Yunzhou Zheng, Yan Cui, <strong>Jun Qiao</strong>*, Fukun Wang*",
-    "venue": "Journal of Diabetes Research",
-    "year": "2026",
-    "highlight": "Corresponding Author",
-    "note": "JCR Q3 · IF 3.5",
-    "thumbnail": "",
-    "tags": [
-      { "text": "Paper", "link": "https://doi.org/10.1155/jdr/2197672" }
-    ]
-  },
-  {
-    "title": "Trends in urinary incontinence among women in the United States from 2001 to 2023",
-    "authors": "Mengting Liu, Zhongyan Xu, Minjing Chang, <strong>Jun Qiao</strong>*",
-    "venue": "Current Urology",
-    "year": "2026",
-    "highlight": "Corresponding Author",
-    "note": "JCR Q4 · IF 2.0",
-    "thumbnail": "",
-    "tags": [
-      { "text": "Paper", "link": "https://doi.org/10.1097/cu9.0000000000000347" }
+      {
+        "text": "Paper",
+        "link": "https://doi.org/10.1186/s13059-026-03962-x"
+      }
     ]
   },
   {
@@ -68,7 +53,10 @@
     "note": "JCR Q1 · CAS Rank 1 · IF 13.1",
     "thumbnail": "",
     "tags": [
-      { "text": "Paper", "link": "https://doi.org/10.1093/nar/gkae999" }
+      {
+        "text": "Paper",
+        "link": "https://doi.org/10.1093/nar/gkae999"
+      }
     ]
   },
   {
@@ -79,7 +67,10 @@
     "note": "JCR Q1 · IF 10.2",
     "thumbnail": "",
     "tags": [
-      { "text": "Paper", "link": "https://doi.org/10.1093/europace/euaf020" }
+      {
+        "text": "Paper",
+        "link": "https://doi.org/10.1093/europace/euaf020"
+      }
     ]
   },
   {
@@ -91,7 +82,10 @@
     "note": "JCR Q1 · CAS Rank 2 · IF 5.9",
     "thumbnail": "",
     "tags": [
-      { "text": "Paper", "link": "https://doi.org/10.1016/j.ajpc.2025.101360" }
+      {
+        "text": "Paper",
+        "link": "https://doi.org/10.1016/j.ajpc.2025.101360"
+      }
     ]
   },
   {
@@ -103,7 +97,10 @@
     "note": "Online · New journal, no IF yet",
     "thumbnail": "",
     "tags": [
-      { "text": "Paper", "link": "https://doi.org/10.1097/re9.0000000000000019" }
+      {
+        "text": "Paper",
+        "link": "https://doi.org/10.1097/re9.0000000000000019"
+      }
     ]
   },
   {
@@ -115,7 +112,10 @@
     "note": "JCR Q2 · IF 6.5",
     "thumbnail": "",
     "tags": [
-      { "text": "Paper", "link": "https://doi.org/10.1016/j.mayocp.2026.07.020" }
+      {
+        "text": "Paper",
+        "link": "https://doi.org/10.1016/j.mayocp.2026.07.020"
+      }
     ]
   },
   {
@@ -127,7 +127,10 @@
     "note": "JCR Q1 · CAS Rank 1 · IF 7.0",
     "thumbnail": "",
     "tags": [
-      { "text": "Paper", "link": "https://doi.org/10.1093/rheumatology/keac625" }
+      {
+        "text": "Paper",
+        "link": "https://doi.org/10.1093/rheumatology/keac625"
+      }
     ]
   },
   {
@@ -139,7 +142,10 @@
     "note": "JCR Q1 · CAS Rank 1 · IF 7.0",
     "thumbnail": "",
     "tags": [
-      { "text": "Paper", "link": "https://doi.org/10.1093/rheumatology/keac458" }
+      {
+        "text": "Paper",
+        "link": "https://doi.org/10.1093/rheumatology/keac458"
+      }
     ]
   },
   {
@@ -151,7 +157,10 @@
     "note": "JCR Q1 · CAS Rank 1 · IF 10.0",
     "thumbnail": "",
     "tags": [
-      { "text": "Paper", "link": "https://doi.org/10.1093/ecco-jcc/jjad011" }
+      {
+        "text": "Paper",
+        "link": "https://doi.org/10.1093/ecco-jcc/jjad011"
+      }
     ]
   },
   {
@@ -163,7 +172,10 @@
     "note": "Preprint",
     "thumbnail": "",
     "tags": [
-      { "text": "Preprint", "link": "https://doi.org/10.64898/2026.03.15.24309272" }
+      {
+        "text": "Preprint",
+        "link": "https://doi.org/10.64898/2026.03.15.24309272"
+      }
     ]
   },
   {
@@ -175,7 +187,10 @@
     "note": "Preprint",
     "thumbnail": "",
     "tags": [
-      { "text": "Preprint", "link": "https://doi.org/10.1101/2025.07.09.25331189" }
+      {
+        "text": "Preprint",
+        "link": "https://doi.org/10.1101/2025.07.09.25331189"
+      }
     ]
   },
   {
@@ -187,18 +202,10 @@
     "note": "Preprint",
     "thumbnail": "",
     "tags": [
-      { "text": "Preprint", "link": "https://doi.org/10.1101/2025.03.03.25323217" }
-    ]
-  },
-  {
-    "title": "Identification of novel drug targets for osteoarthritis by integrating genetics and proteomes from blood",
-    "authors": "Shan Song, <strong>Jun Qiao</strong>, Rong Zhao, Yu-Jie Lu, Can Wang, Min-Jing Chang, He-Yi Zhang, Xiao-Feng Li, Cai-Hong Wang",
-    "venue": "Journal of Orthopaedic Surgery and Research",
-    "year": "2024",
-    "note": "JCR Q3 · IF 3.8",
-    "thumbnail": "",
-    "tags": [
-      { "text": "Paper", "link": "https://doi.org/10.1186/s13018-024-05034-x" }
+      {
+        "text": "Preprint",
+        "link": "https://doi.org/10.1101/2025.03.03.25323217"
+      }
     ]
   },
   {
@@ -210,7 +217,10 @@
     "note": "Preprint",
     "thumbnail": "",
     "tags": [
-      { "text": "Preprint", "link": "https://doi.org/10.1101/2024.11.10.24317047" }
+      {
+        "text": "Preprint",
+        "link": "https://doi.org/10.1101/2024.11.10.24317047"
+      }
     ]
   },
   {
@@ -222,7 +232,10 @@
     "note": "Preprint",
     "thumbnail": "",
     "tags": [
-      { "text": "Preprint", "link": "https://doi.org/10.1101/2024.09.01.24310190" }
+      {
+        "text": "Preprint",
+        "link": "https://doi.org/10.1101/2024.09.01.24310190"
+      }
     ]
   },
   {
@@ -234,7 +247,10 @@
     "note": "Preprint",
     "thumbnail": "",
     "tags": [
-      { "text": "Preprint", "link": "https://doi.org/10.1101/2024.07.26.24310191" }
+      {
+        "text": "Preprint",
+        "link": "https://doi.org/10.1101/2024.07.26.24310191"
+      }
     ]
   }
 ]
