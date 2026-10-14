@@ -10,24 +10,19 @@
     "org": "国家自然科学基金青年学生基础研究项目（博士研究生），主持，经费30万元"
   },
   {
-    "date": "Nov. 2025",
-    "title": "The 2025 Open research fund program of Shanxi Taihang Laboratory Co., Ltd./Taihang Laboratory in Shanxi Province (PI, ¥150K)",
-    "org": "2025年度太行山西省实验室开放课题（企业横向课题），主持，经费15万元"
-  },
-  {
     "date": "Dec. 2025",
     "title": "The 2025 CAST Young Scientific Talent Cultivation Program for PhD Students (¥40K)",
     "org": "2025年中国科协青年科技人才培育工程博士生专项计划，经费4万元"
   },
   {
-    "date": "2023",
-    "title": "iCAN Star of Innovation (Top 10 nationwide)",
-    "org": "2023年度iCAN创新之星（全国10人入选）"
+    "date": "Nov. 2025",
+    "title": "The 2025 Open research fund program of Shanxi Taihang Laboratory Co., Ltd./Taihang Laboratory in Shanxi Province (PI, ¥150K)",
+    "org": "2025年度太行山西省实验室开放课题（企业横向课题），主持，经费15万元"
   },
   {
-    "date": "第十五届",
-    "title": "China College Student of the Year (Top 20 nationwide)",
-    "org": "第十五届“中国大学生年度人物”（全国20人入选）"
+    "date": "Dec. 2023",
+    "title": "2023 iCAN Innovation Star Award (Top 10 nationwide)",
+    "org": "2023年度iCAN创新之星（全国10人入选）"
   },
   {
     "date": "2022",
@@ -45,8 +40,8 @@
     "org": "第四届“山西优秀青年创业奖”（山西省30人入选）"
   },
   {
-    "date": "2021",
-    "title": "National Scholarship for Master's Students",
+    "date": "Dec. 2021",
+    "title": "2021 China National Scholarship for Graduate Students.",
     "org": "2021年硕士研究生国家奖学金"
   },
   {
@@ -55,14 +50,9 @@
     "org": "2021年度中国大学生自强之星（全国1,832人入选）"
   },
   {
-    "date": "2019",
-    "title": "Shanxi Science & Technology Innovation Person of the Year (Top 10 in province)",
-    "org": "2019年度山西省科技创新人物（山西省10人入选）"
-  },
-  {
-    "date": "连续4年",
-    "title": "G20 Young Entrepreneurs Alliance Elite Talent Program",
-    "org": "G20青年企业家联盟菁英人才计划（连续4年）"
+    "date": "Nov. 2020",
+    "title": "15th China College Students of the Year (Top 20 nationwide)",
+    "org": "第十五届“中国大学生年度人物”(全国20人入选)"
   },
   {
     "date": "Oct. 2020",
@@ -80,6 +70,11 @@
     "org": "第十二届“挑战杯”中国大学生创业计划竞赛全国总决赛铜奖（第1获奖人）——项目“芯源科技”"
   },
   {
+    "date": "2019",
+    "title": "Shanxi Science & Technology Innovation Person of the Year (Top 10 in province)",
+    "org": "2019年度山西省科技创新人物（山西省10人入选）"
+  },
+  {
     "date": "Nov. 2019",
     "title": "Gold Award & Best Brand Influence Award, 6th \"Chuangqingchun\" China Youth Innovation & Entrepreneurship Competition National Finals (1st contributor)",
     "org": "第六届“创青春”中国青年创新创业大赛全国总决赛金奖和最具品牌影响力奖（第1获奖人）——项目“医纽恩”"
@@ -93,5 +88,10 @@
     "date": "Nov. 2018",
     "title": "Third Prize, 2018 China Mobile Internet Innovation Competition National Finals (2nd contributor)",
     "org": "2018年全国移动互联创新大赛全国总决赛三等奖（第2获奖人）——项目“医纽恩”"
+  },
+  {
+    "date": "连续4年",
+    "title": "G20 Young Entrepreneurs Alliance Elite Talent Program",
+    "org": "G20青年企业家联盟菁英人才计划（连续4年）"
   }
 ]
