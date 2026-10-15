@@ -394,7 +394,9 @@ function getVenueShortName(venueStr, year) {
         'Journal of Orthopaedic Surgery and Research': 'J Orthop Surg Res',
         'Mayo Clinic Proceedings': 'Mayo Clin Proc',
         'Journal of Diabetes Research': 'J Diabetes Res',
-        'Current Urology': 'Curr Urol'
+        'Current Urology': 'Curr Urol',
+        'Vascular Investigation and Therapy': 'Vasc Investig Ther',
+        'Vascular Health': 'Vasc Health'
     };
     if (journalAbbr[s.trim()]) return journalAbbr[s.trim()];
     
