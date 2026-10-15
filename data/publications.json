@@ -45,20 +45,6 @@
     ]
   },
   {
-    "title": "Temporal Trends in Cardiovascular Health Among U.S. Adults, 2009–2018",
-    "authors": "Qian Wang, Yujia Jin, Rui Feng, Meng Li, Yanchen Di, Fei Xie, <strong>Jun Qiao</strong>*",
-    "venue": "Vascular Health",
-    "year": "2026",
-    "note": "Online · New journal, no IF yet",
-    "thumbnail": "",
-    "tags": [
-      {
-        "text": "Paper",
-        "link": "https://doi.org/10.64187/vh.2026.v1.i1.005"
-      }
-    ]
-  },
-  {
     "title": "EXPRESSO: A multi-omics database to explore multi-layered 3D genomic organization",
     "authors": "Liuyang Cai#, <strong>Jun Qiao</strong>#, Ruixin Zhou#, Xinyi Wang#, Yelan Li, Lei Jiang, Qiangwei Zhou*, Guoliang Li*, Tao Xu*, Yuliang Feng*",
     "venue": "Nucleic Acids Research",
@@ -123,6 +109,7 @@
     "authors": "Qian Wang, Meng Li, Rui Feng, <strong>Jun Qiao</strong>*, Chunyan Wang*",
     "venue": "Vascular Investigation and Therapy",
     "year": "2026",
+    "highlight": "Corresponding Author",
     "note": "Online · New journal, no IF yet",
     "thumbnail": "",
     "tags": [
